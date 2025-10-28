@@ -21,11 +21,11 @@ payload:
   #claude
   - "PROCESS-NAME,Claude"
   - "PROCESS-NAME,Claude Helper"
-  - "DOMAIN-KEYWORD,claude"
   - "DOMAIN-SUFFIX,anthropic.com"
   - "DOMAIN-SUFFIX,claude.ai"
   - "DOMAIN-SUFFIX,usefathom.com"
-
+  - "DOMAIN-KEYWORD,claude"
+  - "DOMAIN-KEYWORD,anthropic"
   #recraft
   - "DOMAIN-SUFFIX,recraft.ai"
 
@@ -152,3 +152,4 @@ payload:
   - "DOMAIN-SUFFIX,apis.google.com"
   - "DOMAIN-SUFFIX,clients6.google.com"
   - "DOMAIN-SUFFIX,one.google.com"
+  - "DOMAIN-SUFFIX,accounts.google.com"
