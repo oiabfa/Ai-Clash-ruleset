@@ -151,3 +151,4 @@ payload:
   - "DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com"
   - "DOMAIN-SUFFIX,apis.google.com"
   - "DOMAIN-SUFFIX,clients6.google.com"
+  - "DOMAIN-SUFFIX,one.google.com"
